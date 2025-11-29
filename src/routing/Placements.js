@@ -56,7 +56,7 @@ Show all
   <img src={require('../img/g2.png')} class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Rupali</h5>
-    <p class="card-text">Hartiest Congratulations!!!</p>
+    <p class="card-text">Heartiest Congratulations!!!</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item">TATA</li>
@@ -69,7 +69,7 @@ Show all
   <img src={require('../img/g3.png')} class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Nikita</h5>
-    <p class="card-text">Hartiest Congratulations!!!</p>
+    <p class="card-text">Heartiest Congratulations!!!</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item">Dassault Systems</li>
@@ -82,7 +82,7 @@ Show all
   <img src={require('../img/g4.png')} class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Kalpana</h5>
-    <p class="card-text">Hartiest Congratulations!!!</p>
+    <p class="card-text">Heartiest Congratulations!!!</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item">KPIT</li>
